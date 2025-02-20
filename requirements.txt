@@ -1,0 +1,8 @@
+psutil
+pyshark
+python-nmap
+pyaudio
+opencv-python
+mss
+pynput
+cryptography
