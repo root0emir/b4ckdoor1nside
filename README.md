@@ -14,6 +14,8 @@
 * ensure you have proper authorization before using this tool.                 *
 ********************************************************************************
 
+! - This tool is intended for ethical hacking and security assessment purposes only, to help identify and rectify vulnerabilities in systems. The developers and distributors are not responsible for any misuse or damage caused by this tool.
+
 ## Features
 
 - **User-Friendly Interface:** Prompts the user for the IP address and port number.
